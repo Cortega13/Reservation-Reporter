@@ -1,0 +1,7 @@
+firebase_functions==0.1.2
+beautifulsoup4==4.12.2
+pycountry==22.3.5
+firebase-admin==6.2.0
+facebook-business==18.0.4
+email-validator==2.1.0.post1
+phonenumbers==8.13.25
